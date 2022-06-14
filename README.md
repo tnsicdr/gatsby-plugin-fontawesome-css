@@ -1,4 +1,4 @@
-# gatsby-plugin-fontawesome-css
+# @tnsicdr/gatsby-plugin-fontawesome-css
 
 Disables [Font Awesome auto CSS insertion](https://fontawesome.com/how-to-use/javascript-api/setup/configuration#autoaddcss) and instead inserts it at compile time.
 
@@ -12,17 +12,17 @@ First, follow [Font Awesome docs](https://fontawesome.com/how-to-use/on-the-web/
 
 Second, install the plugin:
 
-`yarn add gatsby-plugin-fontawesome-css`
+`yarn add @tnsicdr/gatsby-plugin-fontawesome-css`
 
 or
 
-`npm install --save gatsby-plugin-fontawesome-css`
+`npm install --save @tnsicdr/gatsby-plugin-fontawesome-css`
 
 ## How to use
 
 ```javascript
 // In your gatsby-config.js
 module.exports = {
-  plugins: [`gatsby-plugin-fontawesome-css`],
+  plugins: [`@tnsicdr/gatsby-plugin-fontawesome-css`],
 }
 ```
