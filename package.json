@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jzabala/gatsby-plugin-fontawesome-css.git"
+    "url": "https://github.com/tnsicdr/gatsby-plugin-fontawesome-css.git"
   },
   "scripts": {
     "test": "jest",
