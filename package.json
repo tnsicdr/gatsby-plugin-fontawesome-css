@@ -1,6 +1,6 @@
 {
   "name": "@tnsicdr/gatsby-plugin-fontawesome-css",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Gatsby plugin that disables Font Awesome auto CSS insertion and instead inserts it at compile time.",
   "main": "index.js",
   "repository": {
